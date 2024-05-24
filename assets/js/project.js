@@ -57,7 +57,7 @@ window.addEventListener("load", async () => {
         pElement.textContent = project.description;
   
         const aElement = document.createElement("a");
-        aElement.href = `./project.html?id=${project.uuid}`;
+        aElement.href = `../projects.html?id=${project.uuid}`;
         aElement.textContent = "Learn More";
   
         infoProjectElement.appendChild(h4Element);
@@ -83,13 +83,13 @@ window.addEventListener("load", async () => {
         event.preventDefault();
   
         if (projectCardTitle.innerText === "Lorem ipsum") {
-          window.location.href = "third.html";
+          window.location.href = "recent-project-3";
         } else if (projectCardTitle.innerText === "Vectorify") {
-          window.location.href = "second.html";
+          window.location.href = "recent-project-2";
         } else if (projectCardTitle.innerText === "Dashcoin") {
-          window.location.href = "first.hrml";
+          window.location.href = "recent-project-1";
         } else {
-          window.location.href = "project.html";
+          window.location.href = "projects.html";
         }
       });
     });

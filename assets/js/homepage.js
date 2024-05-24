@@ -34,13 +34,13 @@ const articleContainers = document.querySelectorAll(".article-container");
       event.preventDefault();
 
       if (projectCardTitle.innerText === "Lorem ipsum") {
-        window.location.href = "third.html";
+        window.location.href = "recent-project-3";
       } else if (projectCardTitle.innerText === "Vectorify") {
-        window.location.href = "second.html";
+        window.location.href = "recent-project-2";
       } else if (projectCardTitle.innerText === "Dashcoin") {
-        window.location.href = "first.hrml";
+        window.location.href = "recent-project-1";
       } else {
-        window.location.href = "project.html";
+        window.location.href = "projects.html";
       }
     });
   });
