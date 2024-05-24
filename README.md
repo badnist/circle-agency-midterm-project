@@ -6,9 +6,9 @@ In this project, I replicated a Figma design in HTML, CSS and JavaScript, in a f
 
 ### Pages
 
-* **Home page: `/` or `/index.hml`**
+* **Home page: `/` or `/homepage.html`**
 
-* **Project page: `/project.html?id=<project-id>`**
+* **Project page: `/projects.html?id=<project-id>`**
 
 * **Contact page: `/contact-us.html`**
 
