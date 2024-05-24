@@ -6,11 +6,11 @@ In this project, I replicated a Figma design in HTML, CSS and JavaScript, in a f
 
 ### Pages
 
-* **Home page: `/` or `/homepage.html`**
+* **Home page: **
 
-* **Project page: `/projects.html?id=<project-id>`**
+* **Project page: **
 
-* **Contact page: `/contact-us.html`**
+* **Contact page: **
 
 ### Obtaining project data from the API
 
