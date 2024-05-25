@@ -22,3 +22,6 @@
 ## Demo Slide (1 slide): literally says “DEMO” with a link to your project so you can open it easily
 ## Closing Slide (1 slide): your project’s name, your name & a “Thank You”
 ## Total: 7-11 slides
+
+
+![Alt text](http://full/path/to/img.jpg "Optional title")
