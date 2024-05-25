@@ -1,4 +1,5 @@
 # Hello & welcome! (❁´◡`❁)
+<br />
 
 ## Circle Client Agency by Ryan Marzban
 
@@ -33,12 +34,7 @@
 #### What did you learn from it? 
 - To first think about the structure of my files and then start coding. 
 
-<hr />
-
-### Demo Slide: literally says “DEMO” with a link to your project so you can open it easily
-### Closing Slide (1 slide): your project’s name, your name & a “Thank You”
-### Total: 7-11 slides
-
+<br />
 <hr />
 
 ![Home page](https://github.com/badnist/circle-agency-midterm-project/assets/165827595/04eee6b5-d740-4f73-8fd0-5ee68774b89c)
