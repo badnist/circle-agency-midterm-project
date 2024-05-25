@@ -1,10 +1,8 @@
 # Hello & welcome! (❁´◡`❁)
 
-# Presentation Structure
+## Circle Client Agency by Ryan Marzban
 
-## Title Slide (1 slide): - Circle Client Agency by Ryan Marzban
-
-## About Me (1-2 slides):
+## About Me:
 ### Where are you from? - Sweden
 ### What are some interesting facts about you? (hobbies, travels, etc.)  I want to learn everything, anywhere and anytime, as soon as possible. 
 
