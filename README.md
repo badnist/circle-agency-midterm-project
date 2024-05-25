@@ -1,6 +1,8 @@
+# Hello & welcome! (❁´◡`❁)
+
 # Presentation Structure
 
-## Title Slide (1 slide): your project’s name & your name
+## Title Slide (1 slide): - Circle Client Agency by Ryan Marzban
 
 ## About Me (1-2 slides):
 ### Where are you from? - Sweden
