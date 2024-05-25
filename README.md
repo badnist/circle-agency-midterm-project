@@ -7,7 +7,7 @@
 - Sweden
 ### What are some interesting facts about you? (hobbies, travels, etc.)  
 - I want to learn everything, anywhere and anytime, as soon as possible. 
-
+<hr /> 
 
 ## Project Elevator Pitch (1-2 slides):
 - In this project, I replicated a Figma design in HTML, CSS and JavaScript, in a fully responsive way.
